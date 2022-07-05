@@ -1,7 +1,7 @@
 # DataScience_Molecular_physics
 ## Data science in Molecular physics problems  
 
-This repo is related to the works/ assignments/ projects in Machine learning and data Science in Molecular physic course in Freie Universität Berlin. In this work, we will show the use of data science & machine learning concepts with scikit-learn in various problems mainly in molecular physics area.
+This repo is related to the works/ assignments/ projects in machine learning & data Science in molecular science course in Freie Universität Berlin. In this work, we will show the use of data science & machine learning concepts with scikit-learn in various problems mainly in molecular physics area.
 First, we will implement the general concepts such as linear, non-linear regression, and classifiction  in context of specific problems. Then we will develop neural network potentials for Lennard-Jones clusters. After that, we will develop a neural network (NN) for the classi cation of local structural environments in bulk phases
 
 
